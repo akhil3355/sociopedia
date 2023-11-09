@@ -1,4 +1,4 @@
-# <span style="color: cyan;">Sociopedia</span>
+# <font color="#00FFFF">Sociopedia</font>
 
 Sociopedia is a social media application developed using the MERN stack (MongoDB, Express.js, React, Node.js). It provides users with a platform to connect, share, and engage with each other through posts and comments.
 
